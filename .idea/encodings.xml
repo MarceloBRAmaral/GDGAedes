@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/pedro/gdgsjcvirus/BaseApplication.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/pedro/gdgsjcvirus/CancelableCallback.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/pedro/gdgsjcvirus/CustomCallBack.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/pedro/gdgsjcvirus/FileHelper.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/pedro/gdgsjcvirus/FotoActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/pedro/gdgsjcvirus/MainActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/pedro/gdgsjcvirus/MapsActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/pedro/gdgsjcvirus/NetworkInterceptor.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/pedro/gdgsjcvirus/Ocorrencia.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/pedro/gdgsjcvirus/RestClient.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/pedro/gdgsjcvirus/StatusResponse.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/pedro/gdgsjcvirus/UploadService.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/pedro/gdgsjcvirus/UploadSync.java" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
